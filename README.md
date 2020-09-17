@@ -1,7 +1,7 @@
 # Instagram to Bibliogram
 A very basic userscript to redirect all Instagram links to a [Bibliogram](https://sr.ht/~cadence/bibliogram/) instance.
 
-Right now the code uses the Bibliogram instance at [pussthecat.org](https://pussthecat.org/) but you can change it to your own instance or the one you prefer just by editing line 16 an 19 of the script.
+The code uses the latest unblocked Bibliogram instance I found (and I try to keep the script updated so that it never run on a blocked one) but you can change it to your own instance or the one you prefer just by editing line 14 an 17 of the script.
 
 There are many improvements that can be done to this code and you're very welcome to do that with a pull request!
 

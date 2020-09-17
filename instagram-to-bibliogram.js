@@ -11,10 +11,10 @@
     'use strict';
     if (document.location.pathname.indexOf("/p/") == 0) {
   window.stop(); // stop loading the window
-  location.hostname = 'bibliogram.pussthecat.org';
+  location.hostname = 'bibliogram.pixelfed.uno';
         } else {
             window.stop();
-            var newhostname = "bibliogram.pussthecat.org";
+            var newhostname = "bibliogram.pixelfed.uno";
             var newURL = location.protocol + "//"
                 + newhostname
                 + '/u'
