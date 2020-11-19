@@ -11,10 +11,10 @@
     'use strict';
     if (document.location.pathname.indexOf("/p/") == 0) {
   window.stop(); // stop loading the window
-  location.hostname = 'bibliogram.pixelfed.uno';
+  location.hostname = 'bibliogram.ethibox.fr';
         } else {
             window.stop();
-            var newhostname = "bibliogram.pixelfed.uno";
+            var newhostname = "bibliogram.ethibox.fr";
             var newURL = location.protocol + "//"
                 + newhostname
                 + '/u'
